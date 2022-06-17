@@ -1,0 +1,28 @@
+.pointer {
+    cursor: pointer;
+}
+
+.ant-modal-footer {
+    display: none;
+}
+
+.ant-select-selector {
+    height: 50px !important;
+}
+
+.react-mapbox-ac-input,
+.ant-picker
+{
+    height: 50px !important;
+}
+
+.ant-select-selection-placeholder,
+.ant-select-selection-item {
+    margin-top: 5px;
+    height: 50px;
+}
+
+.btn-square {
+    border-radius: 0;
+    height: 50px;
+}
